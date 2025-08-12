@@ -21,4 +21,17 @@ O objetivo é demonstrar o uso das estruturas de repetição para simular movime
 O programa está dividido em três partes principais:
 
 1. **Movimento da Torre**  
-   Utiliza `for` para perc
+   Utiliza `for` para percorrer 5 casas para a direita.
+   
+2. **Movimento do Bispo**  
+   Utiliza `while` para percorrer 5 casas na diagonal (Cima Direita).
+   
+3. **Movimento da Rainha**  
+   Utiliza `do-while` para percorrer 8 casas para a esquerda.
+
+---
+
+## Saída Esperada
+
+Ao executar o programa, a saída será:
+
