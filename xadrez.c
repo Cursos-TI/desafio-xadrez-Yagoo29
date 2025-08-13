@@ -26,5 +26,20 @@ int main() {
         contadorRainha++;
     } while (contadorRainha <= casasRainha);
 
+    int casasBaixo = 2;
+    int casasEsquerda = 1;
+
+     printf("\nMovimento do Cavalo:\n");
+     
+     for (int i = 1; i <= casasBaixo; i++) {
+        printf("Baixo\n");
+        }
+
+        int contadorEsquerda = 0;
+        while (contadorEsquerda < casasEsquerda) {
+            printf("Esquerda\n");
+            contadorEsquerda++;
+            }
+
     return 0;
 }
